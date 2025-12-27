@@ -3,7 +3,8 @@ Helps you unsubscribe from all youtube channels
 
 CREDITS: https://www.reddit.com/user/Due-Switch-442/
 
-⚠️ Disclaimer
+# ⚠️ Disclaimer
+
 This repository is for educational and experimental purposes only.
 It demonstrates browser automation techniques such as DOM interaction, delays, and scripted user flows.
 
