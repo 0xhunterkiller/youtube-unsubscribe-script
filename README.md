@@ -10,4 +10,4 @@ CREDITS: https://www.reddit.com/user/Due-Switch-442/
 3. Open Developer Console (`Ctrl` + `Shift` + `i`) > In the top, click on `Console` 
 4. Type `allow pasting` and hit `Enter`
 5. Paste the script given in `index.js` (tweak UNSUBSCRIBE DELAY TIME, according to your needs - 2 seconds by default)
-6. Watch it work its magic :)
+6. Hit `Enter`, and watch it work its magic :)
